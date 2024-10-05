@@ -1,0 +1,2 @@
+NAME                                  CPU(cores)   MEMORY(bytes)
+hello-world-54d864dd68-jrftz          1m           19Mi

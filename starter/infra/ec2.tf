@@ -40,7 +40,7 @@ resource "aws_security_group" "ssh_access" {
 
 module "ec2_instance" {
   source  = "terraform-aws-modules/ec2-instance/aws"
-  version = "~> 3.0"
+  version = "3.6.0"
 
   name = "curl-instance"
 
